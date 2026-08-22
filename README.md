@@ -40,4 +40,4 @@ airbnb_tracker/
 ** Important note: 
 Apify is a "Freemium" platform, meaning that it is free to use, but limited. 
 In the free tier, I could only run once a month, which makes it impossible for the logic to work seamlessly.
-In this way, although the app works, it has never been fully testes (no ML was ever conducted).
+In this way, although the app works, it has never been fully tested (no ML was ever conducted).
