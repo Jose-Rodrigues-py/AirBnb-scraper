@@ -5,6 +5,8 @@ time to infer bookings, and builds a dataset for ML analysis of rental profitabi
 
 This project was inspired by a challenge from an architect who wanted to understand which property characteristics drive Airbnb profitability. It explores how publicly available Airbnb data can be transformed into occupancy and investment insights.
 
+You can see how the app looks like in the two files named "airbnb_project_image1" and "airbnb_project_image2".
+
 ---
 
 ## How it works
